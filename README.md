@@ -39,7 +39,7 @@ Recordit
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Still not sure if I'm using the intents properly..
 
 ## License
 
